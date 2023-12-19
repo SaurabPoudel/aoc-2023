@@ -1,3 +1,3 @@
-import { day02 } from "./day02/day02";
+import { day02 } from "./day02/part2";
 
 day02();
